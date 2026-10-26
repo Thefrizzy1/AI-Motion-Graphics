@@ -1,0 +1,27 @@
+{
+  "name": "ai-motion-graphics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Motion graphics made with code + AI: 8 Remotion pieces (kinetic type, logo reveal, data, particles, pixel art, UI, three.js 3D, transitions) and a beat-synced reel.",
+  "scripts": {
+    "studio": "remotion studio",
+    "render:reel": "remotion render Reel out/reel.mp4 --gl=angle",
+    "sfx": "python scripts/make_sfx.py",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/fiber": "9.8.1",
+    "@remotion/cli": "4.0.506",
+    "@remotion/google-fonts": "4.0.506",
+    "@remotion/three": "4.0.506",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.506",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "@types/three": "0.186.0",
+    "typescript": "5.8.2"
+  }
+}
