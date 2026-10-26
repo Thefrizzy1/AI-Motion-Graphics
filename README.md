@@ -4,6 +4,15 @@ Eight motion graphics and a beat-synced reel, all written as code with **[Remoti
 (video in React) and **[three.js](https://threejs.org)**, made by talking to a coding agent (Claude Code) in plain
 language. No After Effects, no timeline, no keyframes. From the_frizzy1's video "Motion graphics made with AI" on YouTube.
 
+![All eight pieces playing at once](media/wall.gif)
+
+**The reel:** [media/reel-720p-silent.mp4](media/reel-720p-silent.mp4) (no music in the repo — see *Sound* below)
+
+| | | | |
+|---|---|---|---|
+| ![](media/01-KineticType.gif) | ![](media/02-LogoReveal.gif) | ![](media/03-DataViz.gif) | ![](media/04-Particles.gif) |
+| ![](media/05-PixelArt.gif) | ![](media/06-UIMockup.gif) | ![](media/07-WaveField3D.gif) | ![](media/08-Transitions.gif) |
+
 | # | Piece | Technique |
 |---|---|---|
 | 01 | Kinetic type | every letter its own box on an easing curve, glitch slices on each cut |
