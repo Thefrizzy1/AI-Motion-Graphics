@@ -1,8 +1,12 @@
 # AI Motion Graphics — made with code, not keyframes
 
+**By [the_frizzy1](https://www.youtube.com/@the_frizzy1)** · ☕ **[Buy me a coffee](https://buymeacoffee.com/the_frizzy1)** if this saved you time · ▶️ [Watch the video](https://youtu.be/DsZZBpT67R8)
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/the_frizzy1)
+
 Eight motion graphics and a beat-synced reel, all written as code with **[Remotion](https://www.remotion.dev)**
 (video in React) and **[three.js](https://threejs.org)**, made by talking to a coding agent (Claude Code) in plain
-language. No After Effects, no timeline, no keyframes. From the_frizzy1's video "Motion graphics made with AI" on YouTube.
+language. No After Effects, no timeline, no keyframes. From my video [How I Make Insane Motion Graphics with Just PROMPTS (Claude Code)](https://youtu.be/DsZZBpT67R8).
 
 ![All eight pieces playing at once](media/wall.gif)
 
