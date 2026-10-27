@@ -4,6 +4,8 @@
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/the_frizzy1)
 
+<a href="https://www.youtube.com/watch?v=DsZZBpT67R8&list=PLDlBEvYrfP2g"><img src="https://img.youtube.com/vi/DsZZBpT67R8/maxresdefault.jpg" width="640" alt="Watch: How I Make Insane Motion Graphics with Just PROMPTS (Claude Code)"></a>
+
 Eight motion graphics and a beat-synced reel, all written as code with **[Remotion](https://www.remotion.dev)**
 (video in React) and **[three.js](https://threejs.org)**, made by talking to a coding agent (Claude Code) in plain
 language. No After Effects, no timeline, no keyframes. From my video [How I Make Insane Motion Graphics with Just PROMPTS (Claude Code)](https://www.youtube.com/watch?v=DsZZBpT67R8&list=PLDlBEvYrfP2g).
